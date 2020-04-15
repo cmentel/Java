@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03448526-4db9-497a-b70d-74ad037da1c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Z8ltj4lGfZTtWvQiGODQXQHvDh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/cs5004/marblesolitaire" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.MarbleSolitaireControllerImplTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs5004.marblesolitaire.Main" />
+      <module name="assignment7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs5004.marblesolitaire.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarbleSolitaireControllerImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MarbleSolitaireControllerImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarbleSolitaireModelImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MarbleSolitaireModelImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MarbleSolitaireControllerImplTest" />
+        <item itemvalue="JUnit.MarbleSolitaireModelImplTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03448526-4db9-497a-b70d-74ad037da1c0" name="Default Changelist" comment="" />
+      <created>1584228818287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584228818287</updated>
+      <workItem from="1584228820955" duration="131000" />
+      <workItem from="1584250654593" duration="96000" />
+      <workItem from="1584250769424" duration="2037000" />
+      <workItem from="1584375433830" duration="1010000" />
+      <workItem from="1584399717852" duration="3959000" />
+      <workItem from="1584903708352" duration="486000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2480" y="197" key="#Project_Structure" timestamp="1584252693175">
+      <screen x="1920" y="23" width="1920" height="1028" />
+    </state>
+    <state x="2480" y="197" key="#Project_Structure/1920.23.1920.1028/0.23.1920.1057@1920.23.1920.1028" timestamp="1584252693175" />
+    <state x="2480" y="202" key="#Project_Structure/1920.23.1920.1057/0.23.1920.1028@1920.23.1920.1057" timestamp="1584228830949" />
+    <state x="2021" y="120" width="1720" height="806" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584402515426">
+      <screen x="1920" y="23" width="1920" height="1028" />
+    </state>
+    <state x="2021" y="120" width="1720" height="806" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.23.1920.1028/0.23.1920.1057@1920.23.1920.1028" timestamp="1584402515426" />
+    <state x="2021" y="123" width="1720" height="828" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.23.1920.1057/3412.1103.1680.1027/0.23.1920.1028@1920.23.1920.1057" timestamp="1584376110672" />
+    <state x="2693" y="252" key="#com.intellij.ide.util.MemberChooser" timestamp="1584401350995">
+      <screen x="1920" y="23" width="1920" height="1028" />
+    </state>
+    <state x="2693" y="252" key="#com.intellij.ide.util.MemberChooser/1920.23.1920.1028/0.23.1920.1057@1920.23.1920.1028" timestamp="1584401350995" />
+    <state x="2738" y="431" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584250882863">
+      <screen x="1920" y="23" width="1920" height="1028" />
+    </state>
+    <state x="2738" y="431" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1920.23.1920.1028/0.23.1920.1057@1920.23.1920.1028" timestamp="1584250882863" />
+    <state width="1638" height="134" key="GridCell.Tab.0.bottom" timestamp="1584453216183">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="134" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1584453216183" />
+    <state width="1878" height="328" key="GridCell.Tab.0.bottom/1920.23.1920.1028/0.23.1920.1057@1920.23.1920.1028" timestamp="1584402517455" />
+    <state width="1878" height="280" key="GridCell.Tab.0.bottom/1920.23.1920.1057/3412.1103.1680.1027/0.23.1920.1028@1920.23.1920.1057" timestamp="1584376446417" />
+    <state width="1638" height="134" key="GridCell.Tab.0.center" timestamp="1584453216183">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="134" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1584453216183" />
+    <state width="1878" height="328" key="GridCell.Tab.0.center/1920.23.1920.1028/0.23.1920.1057@1920.23.1920.1028" timestamp="1584402517453" />
+    <state width="1878" height="280" key="GridCell.Tab.0.center/1920.23.1920.1057/3412.1103.1680.1027/0.23.1920.1028@1920.23.1920.1057" timestamp="1584376446416" />
+    <state width="1638" height="134" key="GridCell.Tab.0.left" timestamp="1584453216182">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="134" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1584453216182" />
+    <state width="1878" height="328" key="GridCell.Tab.0.left/1920.23.1920.1028/0.23.1920.1057@1920.23.1920.1028" timestamp="1584402517453" />
+    <state width="1878" height="280" key="GridCell.Tab.0.left/1920.23.1920.1057/3412.1103.1680.1027/0.23.1920.1028@1920.23.1920.1057" timestamp="1584376446416" />
+    <state width="1638" height="134" key="GridCell.Tab.0.right" timestamp="1584453216183">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="134" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1584453216183" />
+    <state width="1878" height="328" key="GridCell.Tab.0.right/1920.23.1920.1028/0.23.1920.1057@1920.23.1920.1028" timestamp="1584402517454" />
+    <state width="1878" height="280" key="GridCell.Tab.0.right/1920.23.1920.1057/3412.1103.1680.1027/0.23.1920.1028@1920.23.1920.1057" timestamp="1584376446416" />
+    <state width="1878" height="346" key="GridCell.Tab.1.bottom" timestamp="1584453216177">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1878" height="346" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1584453216177" />
+    <state width="1878" height="346" key="GridCell.Tab.1.bottom/1920.23.1920.1028/0.23.1920.1057@1920.23.1920.1028" timestamp="1584401125783" />
+    <state width="1878" height="346" key="GridCell.Tab.1.bottom/1920.23.1920.1057/3412.1103.1680.1027/0.23.1920.1028@1920.23.1920.1057" timestamp="1584376446410" />
+    <state width="1878" height="346" key="GridCell.Tab.1.center" timestamp="1584453216176">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1878" height="346" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1584453216176" />
+    <state width="1878" height="346" key="GridCell.Tab.1.center/1920.23.1920.1028/0.23.1920.1057@1920.23.1920.1028" timestamp="1584401125782" />
+    <state width="1878" height="346" key="GridCell.Tab.1.center/1920.23.1920.1057/3412.1103.1680.1027/0.23.1920.1028@1920.23.1920.1057" timestamp="1584376446409" />
+    <state width="1878" height="346" key="GridCell.Tab.1.left" timestamp="1584453216176">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1878" height="346" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1584453216176" />
+    <state width="1878" height="346" key="GridCell.Tab.1.left/1920.23.1920.1028/0.23.1920.1057@1920.23.1920.1028" timestamp="1584401125782" />
+    <state width="1878" height="346" key="GridCell.Tab.1.left/1920.23.1920.1057/3412.1103.1680.1027/0.23.1920.1028@1920.23.1920.1057" timestamp="1584376446409" />
+    <state width="1878" height="346" key="GridCell.Tab.1.right" timestamp="1584453216177">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1878" height="346" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1584453216177" />
+    <state width="1878" height="346" key="GridCell.Tab.1.right/1920.23.1920.1028/0.23.1920.1057@1920.23.1920.1028" timestamp="1584401125783" />
+    <state width="1878" height="346" key="GridCell.Tab.1.right/1920.23.1920.1057/3412.1103.1680.1027/0.23.1920.1028@1920.23.1920.1057" timestamp="1584376446409" />
+    <state x="2368" y="118" key="SettingsEditor" timestamp="1584401186741">
+      <screen x="1920" y="23" width="1920" height="1028" />
+    </state>
+    <state x="2368" y="118" key="SettingsEditor/1920.23.1920.1028/0.23.1920.1057@1920.23.1920.1028" timestamp="1584401186741" />
+    <state x="2711" y="320" key="chooseDestDirectoryDialog" timestamp="1584250912223">
+      <screen x="1920" y="23" width="1920" height="1028" />
+    </state>
+    <state x="2711" y="320" key="chooseDestDirectoryDialog/1920.23.1920.1028/0.23.1920.1057@1920.23.1920.1028" timestamp="1584250912223" />
+    <state x="2606" y="436" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584252706084">
+      <screen x="1920" y="23" width="1920" height="1028" />
+    </state>
+    <state x="2606" y="436" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1920.23.1920.1028/0.23.1920.1057@1920.23.1920.1028" timestamp="1584252706084" />
+    <state x="2003" y="93" key="new project wizard" timestamp="1584250747078">
+      <screen x="1920" y="23" width="1920" height="1028" />
+    </state>
+    <state x="2003" y="93" key="new project wizard/1920.23.1920.1028/0.23.1920.1057@1920.23.1920.1028" timestamp="1584250747078" />
+    <state x="2545" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1584251492354">
+      <screen x="1920" y="23" width="1920" height="1028" />
+    </state>
+    <state x="2545" y="250" width="670" height="676" key="search.everywhere.popup/1920.23.1920.1028/0.23.1920.1057@1920.23.1920.1028" timestamp="1584251492354" />
+  </component>
+</project>
